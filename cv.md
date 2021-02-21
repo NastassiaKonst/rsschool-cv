@@ -24,5 +24,6 @@ At the moment, I have no experience in development, but I have a desire to devel
 I have 2 certificates from "SkillUp":
 1. "Basic WEB and SQL for software testing",
 2. "Software testing".
+
 I graduated from the Belarus State Economic University, master's degree.
 English level: pre-intermediate (A2)
