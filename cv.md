@@ -7,7 +7,7 @@ At the moment, I have no experience in development, but I have a desire to devel
 <!DOCTYPE html>
 <html>
       <head>
-	       <meta charset="UTF-8">
+	       <meta charset="UTF-8">	
 	       <title> Страница </title>
 	  </head>
 	  <body>
